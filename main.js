@@ -1,6 +1,6 @@
 function verificarTime() {
   
-  var continuarPerguntando = true;
+  var continuarPerguntando = (true);
 
   while (continuarPerguntando) {
     
