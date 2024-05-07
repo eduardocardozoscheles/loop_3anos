@@ -7,7 +7,7 @@ function verificarTime() {
     var respostaTime = prompt("Qual os melhor time?");
 
     
-    if (respostaTime.toLowerCase() === "REAL MADRID") {
+    if (respostaTime.toLowerCase() === "real") {
       alert("Isso mesmo! O REAL MEDRID é o MAIOR time!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
