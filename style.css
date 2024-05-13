@@ -1,5 +1,5 @@
 body {background-image: url(https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/05/real-madrid-laliga-barcelona-e1714839227491.jpg?w=1220&h=674&crop=1);}
-h1 {color: brown;
+h1 {color: rgb(255, 255, 255);
 }
 #texto-animado {
     font-family: 'Arial', sans-serif;
@@ -15,7 +15,7 @@ h1 {color: brown;
 }
 
 #texto-animado {font-size: 150%;
-                color:red;
+                color:rgb(224, 210, 10);
             }
 
 @keyframes animacao-texto {
